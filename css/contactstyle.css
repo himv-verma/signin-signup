@@ -1,0 +1,75 @@
+*{
+   
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+h1{
+    color: whitesmoke;
+}
+h5{
+    font-size: 30px;
+    color: whitesmoke;
+}
+
+h6{
+    font-size: 22px;
+    color: whitesmoke;
+}
+body{
+    background-image: url(../images/back4.jpeg);
+    height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Times New Roman';
+    top: 0px;
+    left: 0px;;
+}
+
+.p1{
+     font-size: 21px;
+     font-weight: lighter;
+     color: rgb(211, 207, 207);
+}
+small{
+    font-size: 25px;
+    color: rgb(221, 220, 220);
+    font-weight: bold;
+}
+img{
+    -webkit-box-shadow: 0px 1px 8px 3px rgba(255,255,255,1);
+-moz-box-shadow: 0px 1px 8px 3px rgba(255,255,255,1);
+box-shadow: 0px 1px 8px 3px rgba(255,255,255,1);
+border-radius: 0px;
+}
+#facebook{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: rgb(87, 87, 218);
+    color: white;
+    font-size: 20px;
+    padding-top: 7px;
+    display: inline-block;
+}
+#twitter{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: rgb(9, 184, 253);
+    color: white;
+    font-size: 20px;
+    padding-top: 7px;
+    display: inline-block;
+    margin: 0 10px;
+}
+#linkedIn{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: rgb(28, 81, 160);
+    color: white;
+    font-size: 20px;
+    padding-top: 7px;
+    display: inline-block;
+}
